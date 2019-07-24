@@ -43,3 +43,5 @@ compress_html:
 sass:
   sass_dir:       /public/css
   style:          compressed
+
+theme: jekyll-theme-cayman
